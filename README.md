@@ -11,5 +11,7 @@ Pyarmor Encryption For Python3
 
 # Comands Run
 $ git clone https://github.com/hamalord4444/pyarmor
+
 $ cd pyarmor
+
 $ python3 run-pyarmor.py
