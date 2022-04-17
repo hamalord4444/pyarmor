@@ -1,4 +1,4 @@
-# pyarmor
+# pyarmor Encryption
 Pyarmor Encryption For Python3
 
 #/usr/bin/python3
